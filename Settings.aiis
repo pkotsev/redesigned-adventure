@@ -182,11 +182,11 @@
     "SourceControlRepository": {
       "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
       "__value": {
-        "RemotePath": "https://github.com/pkotsev/redesigned-adventure.git",
+        "RemotePath": "C:\\Users\\kotsev\\Documents\\Test Studio Projects\\TestProject2",
         "ServerInfo": {
           "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
           "__value": {
-            "ServerName": "https://github.com/pkotsev/redesigned-adventure.git"
+            "ServerName": "C:\\Users\\kotsev\\Documents\\Test Studio Projects\\TestProject2"
           }
         },
         "ServerType": 2
